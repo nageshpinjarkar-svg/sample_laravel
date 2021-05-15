@@ -1,0 +1,19 @@
+<?php
+
+namespace @@namespace@@;
+
+use Illuminate\Http\Request;
+use App\Http\Controllers\Controller;
+use @@fullmodelName@@;
+@@importNameSpace@@
+
+/**
+ * Description of @@controllerName@@
+ *
+ * @author Laravel
+ */
+
+class @@controllerName@@ extends Controller
+{
+    @@methods@@
+}
